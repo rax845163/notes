@@ -1,0 +1,1 @@
+Both the purpose of sessions and cookies are the same. They are both for overcoming the statelessness of HTTP, but they use different methods. Sessions use cookies to save session ids on the client side, and save all other information on the server side. Cookies save all client information on the client side. You may have noticed that cookies have some security problems.
