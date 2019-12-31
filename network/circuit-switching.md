@@ -1,0 +1,1 @@
+Circuit Switching establishes a physical path between the sender and receiver of the message before a message is delivered. When a connection is established between a sender and a receiver, the entire message travels through the established path from sender to the receiver. Circuit switching is always implemented at the Physical Layer.

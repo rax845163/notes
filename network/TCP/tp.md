@@ -1,0 +1,1 @@
+TCP/IP follows top to bottom approach, whereas, OSI Model follows a bottom-up approach.

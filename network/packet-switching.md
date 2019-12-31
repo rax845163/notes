@@ -1,0 +1,2 @@
+Packet Switching is connectionless. In packet switching before the message is transmitted, it is divided into some manageable parts called packets. These packets are routed one by one from source to destination. Packets arrived at the destination are out of order but, they are assembled in order before the destination forward it to the upper layer. Packet Switching is always implemented at the Network Layer. 
+
